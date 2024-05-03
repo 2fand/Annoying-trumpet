@@ -8,7 +8,7 @@
 > - ### 可以不用管ini文件
 > - ### 如果你想要不间断地恼人，就在你打开某个恼人小喇叭之后不停的回车(按回车键)
 > - ### 如果你主打一个出其不意，就在你打开某个恼人小喇叭之后多打些字，等你觉得时机到了，就可以回车了，之后就等一会儿，等好后，就可以再次多打些儿字了，以此类推
-
+> - ### 可以用[传声筒](https://mp.weixin.qq.com/s?src=11&timestamp=1714715586&ver=5237&signature=9-*TOfV5T*l1mH9f1Cl2dsO69an2LbpC11ZX8Z99wAcRtsPY2ZaoNqeXy-6DOdMWxHP4em78kKyWyVVdu3LlV-sjuxb3xokLlH*67jFs*8UUpoVu89TNHuxsQ68cWYbX&new=1)来恼你想要恼的人
 ## 为什么我创建这个仓库
 ### 有一次考试考了***0***分，而且我也被***惩罚***了，并且我心里也很***不愉快***，因此我创建了这个仓库
 ## 源码
