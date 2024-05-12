@@ -60,9 +60,9 @@ int main() {
 ## 恼人小喇叭们的对比
 恼人小喇叭们 | 优缺点
 -------- | -----
-直接版  | 直接就可以恼人，而且最小，但还有特性
-间接版(中文) | 可以自行决定什么时候恼人，但比直接版大了一点点，并且也有特性
-间接版(英文) | 可以自行决定什么时候恼人，但它最大，并且也有特性
+[直接版](https://github.com/2fand/Annoying-trumpet/blob/main/%E6%81%BC%E4%BA%BA%E5%B0%8F%E5%96%87%E5%8F%AD%E7%BE%A4/%E6%81%BC%E4%BA%BA%E5%B0%8F%E5%96%87%E5%8F%AD%E7%9B%B4%E6%8E%A5%E7%89%88.exe)  | 直接就可以恼人，而且最小，但还有特性
+[间接版(中文)](https://github.com/2fand/Annoying-trumpet/blob/main/%E6%81%BC%E4%BA%BA%E5%B0%8F%E5%96%87%E5%8F%AD%E7%BE%A4/%E6%81%BC%E4%BA%BA%E5%B0%8F%E5%96%87%E5%8F%AD%E9%97%B4%E6%8E%A5%E7%89%88(%E4%B8%AD%E6%96%87).exe) | 可以自行决定什么时候恼人，但比直接版大了一点点，并且也有特性
+[间接版(英文)](https://github.com/2fand/Annoying-trumpet/blob/main/恼人小喇叭群/恼人小喇叭间接版(英文).exe) | 可以自行决定什么时候恼人，但它最大，并且也有特性
 ## 以后将要更新或者修复的东西
 - ### 恼人小喇叭群和源码群（更新成下面的图片）
 ![](https://img-blog.csdnimg.cn/direct/b8e88b69a9ec404d83c47b39d1368ac1.png#pic_center)
