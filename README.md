@@ -56,7 +56,7 @@ int main() {
 }
 ```
 ## 现在的流程图
-![](https://img-blog.csdnimg.cn/direct/5820edf62aca4f358b803b8eaa939443.png)
+![](https://github.com/2fand/Annoying-trumpet/assets/167662034/bc23bb65-9859-4b66-b4f1-af2df625f921)
 ## 恼人小喇叭们的对比
 恼人小喇叭们 | 优缺点
 -------- | -----
