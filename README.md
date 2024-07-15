@@ -1,4 +1,4 @@
-# Annoying-trumpet*(恼人的喇叭)*
+# Annoying-trumpet<i>(恼人的喇叭)</i>
 ## 简介
 ### 有恼人的东西
 > [!TIP] 
